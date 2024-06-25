@@ -1,0 +1,23 @@
+.flex-container{
+    background-color: #D60017;
+    display: flex;
+    border-radius: 0px 0px ;
+    width: 1000px;
+    height: 63.45px;
+}
+button{
+    background-color: rgb(254, 253, 253);
+    border: 0px;
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 2.5px;
+    padding-bottom: 2.5px;
+    border-radius: 5px;
+}
+.text{
+    display: block;
+}
+.text1{
+    display: block;
+    size: 3.74px;
+}

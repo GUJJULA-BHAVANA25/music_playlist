@@ -1,0 +1,49 @@
+.flex-container{ 
+    width: 881px;
+    height: 54px;
+    background: #FFFFFFA3;
+    display: flex;
+    text-align: center;
+    vertical-align: middle;
+}
+button{
+    background-color: #FFFFFFA3;
+    border: 0cap;
+
+}
+.play-button{
+    padding: 0px 16px 0px 16px;
+    width: 188px;
+    height: 32px;
+}
+.sign-in-button{
+    background-color: #D60017;
+    border-radius: 5px;
+    color: white;
+    padding: 0px 12px 0px 12px;
+    display: inline-block;
+    vertical-align: middle;
+}
+.sign-in{
+    margin: 0px 15px 0px 0px;
+    display: inline-block;
+}
+.music{
+    width: 44px;
+    width: 44px;
+}
+.playlist-preview{
+    width: 249px;
+    height: 41px;
+    text-align: center;
+    size: 20px 24px;
+}
+.volume{
+    width: 90px;
+    height: 18px;
+}
+.menu{
+    display: inline-block;
+    width: 32px;
+    height: 28px;
+}

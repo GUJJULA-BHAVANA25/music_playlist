@@ -169,13 +169,21 @@ a:link{
 }
 .Uppenantha_photo,
 .Oo_antava_photo,
-.Follow_Follow_photo{
+.Follow_Follow_photo,
+.Whatamma_what_photo,
+.Srivalli_photo,
+.Saami_Saami_photo,
+.Ammaadu_Lets_Do_Kummudu_photo{
     width: 40px;
     height: 40px;
 }
 .uppenantha_details,
 .Oo_antava_details,
-.Follow_Follow_details{
+.Follow_Follow_details,
+.Whatamma_what_details,
+.Srivalli_details,
+.Saami_Saami_details,
+.Ammaadu_Lets_Do_Kummudu_details{
     width: 197.5px;
     height: 40px;
     padding-left: 4px;
@@ -201,7 +209,10 @@ a:link{
 }
 .arya-2,
 .oo_antava,
-.follow_follow{
+.follow_follow,
+.whatamma_what,
+.srivalli,
+.saami_saami{
     width: 303.7px;
     height: 14.5px;
     color: #FFFFFFA3;
@@ -221,7 +232,9 @@ a:link{
     padding: 4px;
     margin: -4px;
 }
-.Whatamma_what_song{
+.Whatamma_what_song,
+.Srivalli_song,
+.Saami_Saami_song{
     width: 293.5px;
     height: 40px;
     padding-top: 7.5px;
@@ -230,9 +243,45 @@ a:link{
     border: rgb(184, 26, 26);
     border-top: 10px;
     position: relative;
-    top: -200pxpx;
+    top: -145px;
     left: 327.5px;
     display: grid;
     cursor: pointer;
     grid-template-columns: 52px 213.5px 28px 0px;
+}
+.Whatamma_what{
+    width: 190.594px;
+    height: 18px;
+    padding: 4px;
+    margin: -4px;
+}
+.Srivalli{
+    width: 197.5px;
+    height: 18px;
+    padding: 4px;
+    margin: -4px;
+}
+.Saami_Saami{
+    width: 197.5px;
+    height: 18px;
+    padding: 4px;
+    margin: -4px;
+}
+.Ammaadu_Lets_Do_Kummudu_song{
+    width: 293.5px;
+    height: 40px;
+    padding-top: 7.5px;
+    padding-bottom: 7.5px;
+    padding-right: 14px;
+    border: rgb(184, 26, 26);
+    border-top: 10px;
+    position: relative;
+    top: -315px;
+    left: 635px;
+    display: grid;
+    cursor: pointer;
+    grid-template-columns: 52px 213.5px 28px 0px;
+}
+.Ammaadu_Lets_Do_Kummudu{
+
 }

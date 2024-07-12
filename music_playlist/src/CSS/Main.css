@@ -133,7 +133,10 @@ a:link{
     width: 715px;
     height: 212px;
     margin-left: -20px;
-   
+    overflow: hidden;
+    overflow-x: scroll;
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 .header_top_songs{
     width: 635px;
@@ -284,4 +287,17 @@ a:link{
 }
 .Ammaadu_Lets_Do_Kummudu{
 
+}
+.left-arrow,
+.righ-arrow{
+    width: 24px;
+    height: 24px;
+    padding: 8px;
+    color: #fff;
+}
+.Top_Songs .left-arrow,
+.Top_Songs .righ-arrow{
+    position: absolute;
+    height: 100%;
+    width: 100px;
 }

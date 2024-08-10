@@ -327,6 +327,7 @@ a:link{
     margin: 15px;
     position: relative;
     left: 26px;
+    top: -15px;
 }
 .RangDe_Details,
 .Janatha_Garage_Details,
@@ -361,8 +362,8 @@ a:link{
     margin: 15px;
     position: absolute;
     left: 281px;
-    top: 35px;
     left: 302px;
+    top: 18.5px;
 }
 .Bommarillu-Album{
     width: 255.75px;
@@ -371,7 +372,7 @@ a:link{
     margin: 15px;
     position: absolute;
     left: 578px;
-    top: 35px;
+    top: 18.5px;
 }
 .Manmadhudu-Album{
     width: 255.75px;
@@ -380,18 +381,18 @@ a:link{
     margin: 15px;
     position: absolute;
     left: 855px;
-    top: 35px;
+    top: 18.5px;
 }
 
 
 
 .Albums{
     width: 1163px;
-    height: 265.594px;
+    height: 270.594px;
     padding-bottom: 32px;
     background-color: rgb(33, 33, 33);
     position: absolute;
-    top: 1099px;
+    top: 1075px;
     left: 263px;
 }
 .Album-Heading{
@@ -445,7 +446,7 @@ a:link{
     margin: -15px;
     position: absolute;
     left: 40px;
-    top: 57px;
+    top: 52px;
 }
 
 .Rathnam_Details{
@@ -456,5 +457,454 @@ a:link{
     cursor: pointer;
     font-family: -apple-system, BlinkMacSystemFont, Apple Color Emoji, SF Pro, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
     font-weight: 400;
-    
+}
+#Rathnam_Details,
+#Mazhai_Details,
+#Unakkum-Enakkum_Details,
+#Pushpa_The_Rise_Details,
+#Drishyam-2_Details,
+#Kisi-Ki-Bhai-Kisi-Ki-Jaan_Details,
+#Cirkus_Details,
+#Ranga-Ranga-Vaibhavanga_Details,
+#Waltair-Veerayya_Details{
+    width: 185.19px;
+    height: 29.5px;
+    color: #FFFFFFEB;
+    font-size: 12px;
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, Apple Color Emoji, SF Pro, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.Mazhai-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 260px;
+    top: 52px;
+}
+.Mazhai_Details,
+.Unakkum-Enakkum_Details,
+.Pushpa_The_Rise_Details,
+.Drishyam-2_Details,
+.Kisi-Ki-Bhai-Kisi-Ki-Jaan_Details,
+.Cirkus_Details,
+.Ranga-Ranga-Vaibhavanga_Details,
+.Waltair-Veerayya_Details{
+    position: absolute;
+    left: 15px;
+    color: #FFFFFFEB;
+    font-size: 12px;
+    cursor: pointer;
+    font-family: -apple-system, BlinkMacSystemFont, Apple Color Emoji, SF Pro, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+.Unakkum-Enakkum-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 483px;
+    top: 52px;
+}
+.Pushpa_The_Rise-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 708px;
+    top: 52px;
+}
+.Drishyam-2-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 930px;
+    top: 52px;
+}
+.Kisi-Ki-Bhai-Kisi-Ki-Jaan-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 1155px;
+    top: 52px;
+}
+.Waltair-Veerayya-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 1380px;
+    top: 52px;
+}
+.Cirkus-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 1605px;
+    top: 52px;
+}
+.Ranga-Ranga-Vaibhavanga-Album{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 1830px;
+    top: 52px;
+}
+
+
+.Music-Videos{
+    width: 1163px;
+    height: 288.047px;
+    padding-top: 12px;
+    display: block;
+    position: absolute;
+    background-color: rgb(33, 33, 33);
+    top: 302px;
+}
+.Music-Videos-Heading{
+    width: 1083px;
+    height: 22px;
+    display: block;
+    font-size: 13px;
+    font-weight: 400;
+    position: relative;
+    top: -20px;
+    left: 40px;
+}
+.music-videos-heading{
+    width: 129.938px;
+    height: 22px;
+    color: #FFFFFFEB;
+    background-color: none;
+    border: none;
+    position: relative;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+.music-videos-layout{
+    width: 1083px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    display: grid;
+    position: relative;
+    left: 41px;
+}
+.Music-Videos-Karige-Loga{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+}
+.Music-Videos-Karige-Loga-Details{
+    width: 255.75px;
+    height: 30px;
+    padding: 4px;
+    margin: -4px;
+    top: 0px;
+    position: relative;
+    font-size: 12px;
+    font-weight: 400;
+}
+.Music-Videos-Karige-Loga-Year{
+    width: 255.75px;
+    height: 15px;
+    padding: 4px;
+    margin: -4px;
+    position: relative;
+    top: 0px;
+    margin: 0px;
+    left: -5px;
+}
+.Music-Videos-Uppenantha-Arya-2{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 295px;
+}
+.Music-Videos-Poonakalu-Loading{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 575px;
+}
+.Music-Videos-Poonakalu-Loading-Lyric{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 854px;
+}
+.Music-Videos-Veerayya-Title-Track{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 1134px;
+}
+.Music-Videos-Ranga-Ranga-Vaibhavanga{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 1415px;
+}
+.Music-Videos-Telusa-Telusa{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 1695px;
+}
+.Music-Videos-Mannavanae-Mannavanae{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 1980px;
+}
+.Music-Videos-Yaaro-En-Nenjai{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 2265px;
+}
+.Music-Videos-Pudikale-Pudikudhu{
+    width: 255.75px;
+    height: 193.047px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    top: 15px;
+    left: 2552px;
+}
+.Artist-Playlists{
+    width: 1390px;
+    height: 400.5px;
+    position: relative;
+    top: 1283px;
+    left: 255px;
+    padding-top: 12px;
+    background-color: rgb(33, 33, 33);
+}
+.Artist-Playlists-Heading{
+    width: 1083px;
+    height: 22px;
+    display: block;
+}
+.artist-playlists-heading{
+    width: 125.375px;
+    height: 22px;
+    position: absolute;
+}
+.Artist-Details{
+    width: 255.75px;
+    height: 305.75px;
+    padding: 15px;
+    margin: -15px;
+    display: list-item;
+    position: absolute;
+    left: 55px;
+    bottom: 0px;
+}
+.Devi-Sri-Prasad-Essentials{
+    width: 255.75px;
+    height: 15px;
+    padding: 4px;
+    margin: -4px;
+    position: relative;
+    top: 225.75px;
+    left: -10px;
+}
+.devi-sri-prasad-essentials{
+    width: 255.75px;
+    height: 15px;
+    padding: 4px;
+    margin: -4px;
+    color: rgba(255, 255, 255, 0.92);
+    font-size: 12px;
+    font-size-adjust: none;
+    font-stretch: 100%;
+    font-weight: 400;
+    font-family: -apple-system, BlinkMacSystemFont, Apple Color Emoji, SF Pro, SF Pro Icons, Helvetica Neue, Helvetica, Arial, sans-serif;
+    position: absolute;
+    top: 4px;
+}
+.devi-sri-prasad-essentials1{
+    width: 255.75px;
+    height: 30px;
+    padding: 4px;
+    margin: -4px;
+    color: #FFFFFFA3;
+    cursor: pointer;
+    font-size: 13.5px;
+    font-size-adjust: none;
+    font-stretch: 100%;
+    font-weight: 400;
+    line-height: 15px;
+    position: absolute;
+    top: 20px;
+}
+.Singles-and-EPs{
+    width: 1163px;
+    height: 317.594px;
+    background-color: rgb(33, 33, 33);
+    position:absolute;
+    top: 2088.8px;
+    left: 263px;
+}
+.Singles-and-EPs-Heading{
+    width: 1083px;
+    height: 22px;
+    display: block;
+    flex-basis: 0%;
+    flex-direction: row;
+    flex-grow: 1;
+    flex-shrink: 1;
+    position: relative;
+    left: 41px;
+}
+.Singles-and-EPs-heading{
+    background:none;
+    background-color: none;
+    border: none;
+    background-color: rgba(0, 0, 0, 0);
+    background-image: none;
+    color: rgba(255, 255, 255, 0.92);
+    cursor: pointer;
+    display: inline-block;
+    font-size: 17px;
+    font-size-adjust: none;
+    font-weight: 700;
+    padding: 0px;
+}
+.Singles-and-EPs-Nuvvu-Nuvvu-Lofi{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 45px;
+    top: 36px;
+}
+.Singles-and-EPs-Nuvvu-Nuvvu-Lofi-Details,
+.Singles-and-EPs-Fire-Song-Kanguva-Details,
+.Singles-and-EPs-Feel-My-Love-Single-Details,
+.Singles-and-EPs-Un-Paarvayil-Cover-Details,
+.Singles-and-EPs-Kaatuka-Kallu-Single-Details{
+    width: 200.594px;
+    height: 30px;
+    padding: 4px;
+    margin: -4px;
+}
+.Singles-and-EPs-Nuvvu-Nuvvu-Lofi-Year,
+.Singles-and-EPs-Fire-Song-Kanguva-Year,
+.Singles-and-EPs-Kaatuka-Kallu-Single-Year{
+    width: 200.594px;
+    height: 15px;
+    padding: 4px;
+    margin: -4px;
+    position: relative;
+    top: 0px;
+}
+.Singles-and-EPs-Feel-My-Love-Single-Year,
+.Singles-and-EPs-Un-Paarvayil-Cover-Year{
+    width: 200.594px;
+    height: 15px;
+    padding: 4px;
+    margin: -4px;
+    position: relative;
+    top: -18px;
+}
+.Singles-and-EPs-Fire-Song-Kanguva{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 267px;
+    top: 37px;
+}
+.Singles-and-EPs-Feel-My-Love-Single{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 490px;
+    top: 37px;
+}
+.Singles-and-EPs-Feel-Un-Paarvayil-Cover{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 710px;
+    top: 36px;
+}
+.Singles-and-EPs-Kaatuka-Kallu-Single{
+    width: 200.594px;
+    height: 250.594px;
+    padding: 15px;
+    margin: -15px;
+    position: absolute;
+    left: 934px;
+    top: 36px;
+}
+.Compilations-Album{
+    width: 1163px;
+    height: 317.594px;
+    padding-top: 12px;
+    box-sizing: border-box;
+    background-color:  rgb(33, 33, 33);;
+    position: absolute;
+    top: 2405.8px;
+    left: 263px;
+}
+.compilations-div{
+    width: 1083px;
+    height: 22px;
+    position: relative;
+    top: 0px;
+    left: 40px;
+}
+.compilations-heading{
+    width: 129.01px;
+    height: 22px;
+    align-items: flex-start;
+    background-color: rgb(31, 31, 31);
+
 }
